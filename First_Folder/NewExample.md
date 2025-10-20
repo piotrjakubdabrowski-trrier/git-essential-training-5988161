@@ -9,3 +9,5 @@ git
 nice
 
 nienienie
+
+pollning draw
